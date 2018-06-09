@@ -1,0 +1,14 @@
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\bin\Debug\son.accdb
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\bin\Debug\YalçınTeknik.exe.config
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\bin\Debug\YalçınTeknik.exe
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\bin\Debug\YalçınTeknik.pdb
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\obj\x86\Debug\YalçınTeknik.Form1.resources
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\obj\x86\Debug\YalçınTeknik.Form2.resources
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\obj\x86\Debug\YalçınTeknik.Form3.resources
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\obj\x86\Debug\YalçınTeknik.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\obj\x86\Debug\YalçınTeknik.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\obj\x86\Debug\YalçınTeknik.exe
+c:\users\pc\documents\visual studio 2010\Projects\YalçınTeknik\YalçınTeknik\obj\x86\Debug\YalçınTeknik.pdb
+G:\YalçınTeknik\bin\Debug\YalçınTeknik.exe.config
+G:\YalçınTeknik\obj\x86\Debug\YalçınTeknik.exe
+G:\YalçınTeknik\obj\x86\Debug\YalçınTeknik.pdb
